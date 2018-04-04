@@ -1,0 +1,18 @@
+[
+  {
+    "id": "16a33a49-fdb3-49b3-99b4-8abddd5be59c",
+    "email": "juan.ghelfi@tictapps.com",
+    "password_hash": "$2a$10$76gXZZrmNM.rN1c6vtrLQ.0sZtp/oCMVBGJx04j0PQMqOnsTyMitm",
+    "provider_credentials": [
+      {
+        "id": "0b73f42d-ea06-4df4-b4f7-f1fac4dd38a4",
+        "email": "juan.ghelfi@tictapps.com",
+        "full_name": "Clone User credentials",
+        "provider_name": "GitHub",
+        "type": "github",
+        "remote_host": "github.com",
+        "encrypted_api_token": "99QUbno1KFV1z9KXfAr+PLo4r59hFR4SlqNkYpMruh6i8GUtHnG2Hmw/BhJm\nk3M34Z2QWxzE4IZFvZaF3+utsg==\n"
+      }
+    ]
+  }
+]
